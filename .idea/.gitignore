@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\Database_Application_Development _24_August_2017\Phyton\Phyton_lessons_dt_20_December_2017\Experiments_Python_3.6.4\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
