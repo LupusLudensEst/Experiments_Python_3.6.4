@@ -3562,13 +3562,23 @@
 # c = len('Curious, I dug around and found some answers for the ideal lengths of tweets and titles and everything in between. Many of these could have been answered with “it depends,” but where’s the fun in that? Solid research exists to show the value and everething')
 # print(c)
 
-a = 'Some string'
-str_a_f_l = repr(a)[1:-1]
-str_a = str(a)
-print(str_a_f_l, type(str_a_f_l))
-print(str_a, type(str_a))
-
-
+# Convert to string
+# a = 'Some string'
+# str_a_f_l = repr(a)[1:-1]
+# str_a = str(a)
+# print(str_a_f_l, type(str_a_f_l))
+# print(str_a, type(str_a))
+# num = 10
+# # check  and print type of num variable
+# print(num, type(num))
+# # convert the num into string and print
+# converted_num = "% s" % num
+# print(converted_num, type(converted_num))
+# v3_init_yandex = 'something to test'
+# result, synth_phrase_list, logs_dict, dialog_id = v3_init_yandex
+# print(v3_init_yandex)
+str_fl_nm = repr(r"upload_dialogs_for_vgurov_26Oct2021.xlsx")[1:-1]
+print(str_fl_nm, type(str_fl_nm))
 
 
 
