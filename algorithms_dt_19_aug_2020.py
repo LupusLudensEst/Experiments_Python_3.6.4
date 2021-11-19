@@ -3577,51 +3577,6 @@
 # v3_init_yandex = 'something to test'
 # result, synth_phrase_list, logs_dict, dialog_id = v3_init_yandex
 # print(v3_init_yandex)
-str_fl_nm = repr(r"upload_dialogs_for_vgurov_26Oct2021.xlsx")[1:-1]
-print(str_fl_nm, type(str_fl_nm))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# str_fl_nm = repr(r"upload_dialogs_for_vgurov_26Oct2021.xlsx")[1:-1]
+# print(str_fl_nm, type(str_fl_nm))
 
