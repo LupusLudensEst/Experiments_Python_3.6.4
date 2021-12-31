@@ -3590,7 +3590,19 @@
 # print("Hello %s, my name is %s" % ('john', 'mike'))
 
 # Find min and max
-arr = [1, 0, 2, 9, 7]
+# arr = [1, 0, 2, 9, 7, -10, 100]
+# min = arr[0]
+# max = arr[0]
+# for n in arr:
+#     if min > n:
+#        min = n
+#     if max < n:
+#        max = n
+# print(min, "; " ,max)
+
+str = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+len = len(str)
+print(str, '\n', len)
 
 
 
