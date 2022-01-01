@@ -3587,4 +3587,43 @@
 # str_fl_nm = repr(r"upload_dialogs_for_vgurov_26Oct2021.xlsx")[1:-1]
 # print(str_fl_nm, type(str_fl_nm))
 
+<<<<<<< HEAD
 print("Hello %s, my name is %s" % ('john', 'mike'))
+=======
+# print("Hello %s, my name is %s" % ('john', 'mike'))
+
+# Find min and max
+# arr = [1, 0, 2, 9, 7, -10, 100]
+# min = arr[0]
+# max = arr[0]
+# for n in arr:
+#     if min > n:
+#        min = n
+#     if max < n:
+#        max = n
+# print(min, "; " ,max)
+
+str = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+len = len(str)
+print(str, '\n', len)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 10dbb7e9be75fca831332f754c09790ae30db67f
