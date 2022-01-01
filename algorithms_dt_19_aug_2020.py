@@ -3561,6 +3561,13 @@
 #
 # c = len('Curious, I dug around and found some answers for the ideal lengths of tweets and titles and everything in between. Many of these could have been answered with “it depends,” but where’s the fun in that? Solid research exists to show the value and everething')
 # print(c)
+#
+# g = '3', 4, bool
+# d, e, f = g
+# print(d, e, f, type(d), type(e), type(f))
+#
+# ff = '111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111'
+# print(len(ff))
 
 # Convert to string
 # a = 'Some string'
@@ -3580,3 +3587,4 @@
 # str_fl_nm = repr(r"upload_dialogs_for_vgurov_26Oct2021.xlsx")[1:-1]
 # print(str_fl_nm, type(str_fl_nm))
 
+print("Hello %s, my name is %s" % ('john', 'mike'))
